@@ -60,7 +60,7 @@
     <div class="row" style="font-family: Arial;">
       <div class="col-lg-12" style="font-family: Arial;">
         <div class="page-header" style="font-family: Arial;">
-          <h1 id="container" style="font-family: Arial;">Dynamic Web Apps Portfolio</h1>
+          <h1 style="font-family: Arial;">Dynamic Web Apps Portfolio</h1>
         </div>
         <div class="panel panel-info" style="font-family: Arial;">
           <div class="panel-heading" style="font-family: Arial;">
@@ -144,7 +144,7 @@
     <div class="row" style="font-family: Arial;">
       <div class="col-lg-12" style="font-family: Arial;">
         <div class="page-header" style="font-family: Arial;">
-          <h1 id="container" style="font-family: Arial;">Questions</h1>
+          <h1 style="font-family: Arial;">Questions</h1>
         </div>
         <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
           <div class="panel-heading" style="font-family: Arial;">
