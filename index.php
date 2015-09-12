@@ -37,55 +37,73 @@
 		
 		<img src='https://s3.amazonaws.com/perfectshutter/website/images/profile/ps/ps-profile-samson.jpg' alt="Samson Tse's Profile Photo">
 		
-		<h3>Project 2 Title Placeholder</h3>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Live</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="http://p2.samsontse.com">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p2.samsontse.com','_blank')">Open</button>
-      </span>
-    </div>
-    <br/>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Github</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p2">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p2','_blank')">Open</button>
-      </span>
-    </div>
-		
-		<h3>Project 3 Title Placeholder</h3>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Live</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="http://p3.samsontse.com">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p3.samsontse.com','_blank')">Open</button>
-      </span>
-    </div>
-    <br/>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Github</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p3">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p3','_blank')">Open</button>
-      </span>
+    <div class="panel panel-info" style="font-family: Arial;margin-top:50px;">
+      <div class="panel-heading" style="font-family: Arial;">
+        <h3 class="panel-title" style="font-family: Arial;">Project 2 Title Placeholder</h3>
+      </div>
+      <div class="panel-body" style="font-family: Arial;">
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Live</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="http://p2.samsontse.com">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p2.samsontse.com','_blank')">Open</button>
+          </span>
+        </div>
+        <br/>
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Github</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p2">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p2','_blank')">Open</button>
+          </span>
+        </div>
+      </div>
     </div>
 		
-		<h3>Project 4 Title Placeholder</h3>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Live</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="http://p4.samsontse.com">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p4.samsontse.com','_blank')">Open</button>
-      </span>
+    <div class="panel panel-info" style="font-family: Arial;margin-top:25px;">
+      <div class="panel-heading" style="font-family: Arial;">
+        <h3 class="panel-title" style="font-family: Arial;">Project 3 Title Placeholder</h3>
+      </div>
+      <div class="panel-body" style="font-family: Arial;">
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Live</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="http://p3.samsontse.com">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p3.samsontse.com','_blank')">Open</button>
+          </span>
+        </div>
+        <br/>
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Github</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p3">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p3','_blank')">Open</button>
+          </span>
+        </div>
+      </div>
     </div>
-    <br/>
-		<div class="input-group" style="font-family: Arial;">
-      <span class="input-group-addon" style="font-family: Arial;">Github</span>
-      <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p4">
-      <span class="input-group-btn" style="font-family: Arial;">
-        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p4','_blank')">Open</button>
-      </span>
+
+    <div class="panel panel-info" style="font-family: Arial;margin-top:25px;">
+      <div class="panel-heading" style="font-family: Arial;">
+        <h3 class="panel-title" style="font-family: Arial;">Project 4 Title Placeholder</h3>
+      </div>
+      <div class="panel-body" style="font-family: Arial;">
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Live</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="http://p4.samsontse.com">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p4.samsontse.com','_blank')">Open</button>
+          </span>
+        </div>
+        <br/>
+        <div class="input-group" style="font-family: Arial;">
+          <span class="input-group-addon" style="font-family: Arial;">Github</span>
+          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p4">
+          <span class="input-group-btn" style="font-family: Arial;">
+            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p4','_blank')">Open</button>
+          </span>
+        </div>
+      </div>
     </div>
 
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
