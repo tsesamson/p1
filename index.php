@@ -25,6 +25,21 @@
 			margin:auto;
 			width:50%;
 		}
+		
+		.circle {
+      display: block;
+      width: 300px;
+      height: 300px;
+      margin: 1em auto;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+      -webkit-border-radius: 99em;
+      -moz-border-radius: 99em;
+      border-radius: 99em;
+      border: 7px solid #eee;
+      box-shadow: 0 8px 7px rgba(0, 0, 0, 0.3);  
+    }
 	
 	</style>
 
@@ -33,9 +48,11 @@
 
 	<div class="container">
 	
+
+		<div class="circle" style="margin-top:50px;background-image:url('/profile-samson.jpg')"></div>
 		<h1>Samson Tse <br> Dynamic Web Apps Portfolio</h1>
 		
-		<img src='https://s3.amazonaws.com/perfectshutter/website/images/profile/ps/ps-profile-samson.jpg' alt="Samson Tse's Profile Photo">
+
 		
     <div class="panel panel-info" style="font-family: Arial;margin-top:50px;">
       <div class="panel-heading" style="font-family: Arial;">
