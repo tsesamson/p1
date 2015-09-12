@@ -13,5 +13,6 @@ Not required for this project.
 No login required for this profile page.
 
 ## Outside code
+* jQuery: https://jquery.com/
 * Bootstrap: http://getbootstrap.com
 * Bootstrap Theme: http://bootswatch.com/flatly/

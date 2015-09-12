@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
 	
 	<style>
@@ -41,33 +41,51 @@
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Live</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="http://p2.samsontse.com">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p2.samsontse.com','_blank')">Open</button>
+      </span>
     </div>
     <br/>
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Github</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p2">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p2','_blank')">Open</button>
+      </span>
     </div>
 		
 		<h3>Project 3 Title Placeholder</h3>
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Live</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="http://p3.samsontse.com">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p3.samsontse.com','_blank')">Open</button>
+      </span>
     </div>
     <br/>
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Github</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p3">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p3','_blank')">Open</button>
+      </span>
     </div>
 		
 		<h3>Project 4 Title Placeholder</h3>
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Live</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="http://p4.samsontse.com">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('http://p4.samsontse.com','_blank')">Open</button>
+      </span>
     </div>
     <br/>
 		<div class="input-group" style="font-family: Arial;">
       <span class="input-group-addon" style="font-family: Arial;">Github</span>
       <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p4">
+      <span class="input-group-btn" style="font-family: Arial;">
+        <button class="btn btn-info" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p4','_blank')">Open</button>
+      </span>
     </div>
 
 		<h2>In 2+ sentences describe who you are and what you do.</h2>
@@ -87,7 +105,9 @@
 	
 	</div>
 	
-	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 	
 </body>
 </html>
