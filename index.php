@@ -48,96 +48,162 @@
 
 	<div class="container">
 	
-
 		<div class="circle" style="margin-top:50px;background-image:url('/profile-samson.jpg')"></div>
-		<h1>Samson Tse <br> Dynamic Web Apps Portfolio</h1>
+		<h1>Samson Tse</h1>
 		
-
-		
-    <div class="panel panel-info" style="font-family: Arial;margin-top:50px;">
-      <div class="panel-heading" style="font-family: Arial;">
-        <h3 class="panel-title" style="font-family: Arial;">Project 2 Title Placeholder</h3>
-      </div>
-      <div class="panel-body" style="font-family: Arial;">
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Live</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="http://p2.samsontse.com">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p2.samsontse.com','_blank')">Open</button>
-          </span>
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="page-header" style="font-family: Arial;">
+          <h1 id="container" style="font-family: Arial;">Dynamic Web Apps Portfolio</h1>
         </div>
-        <br/>
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Github</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p2">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p2','_blank')">Open</button>
-          </span>
+        <div class="panel panel-info" style="font-family: Arial;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h3 class="panel-title" style="font-family: Arial;">Project 2 Title Placeholder</h3>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Live</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="http://p2.samsontse.com">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p2.samsontse.com','_blank')">Open</button>
+              </span>
+            </div>
+            <br/>
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Github</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p2">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p2','_blank')">Open</button>
+              </span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 		
-    <div class="panel panel-info" style="font-family: Arial;margin-top:25px;">
-      <div class="panel-heading" style="font-family: Arial;">
-        <h3 class="panel-title" style="font-family: Arial;">Project 3 Title Placeholder</h3>
-      </div>
-      <div class="panel-body" style="font-family: Arial;">
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Live</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="http://p3.samsontse.com">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p3.samsontse.com','_blank')">Open</button>
-          </span>
-        </div>
-        <br/>
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Github</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p3">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p3','_blank')">Open</button>
-          </span>
-        </div>
-      </div>
-    </div>
-
-    <div class="panel panel-info" style="font-family: Arial;margin-top:25px;">
-      <div class="panel-heading" style="font-family: Arial;">
-        <h3 class="panel-title" style="font-family: Arial;">Project 4 Title Placeholder</h3>
-      </div>
-      <div class="panel-body" style="font-family: Arial;">
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Live</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="http://p4.samsontse.com">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p4.samsontse.com','_blank')">Open</button>
-          </span>
-        </div>
-        <br/>
-        <div class="input-group" style="font-family: Arial;">
-          <span class="input-group-addon" style="font-family: Arial;">Github</span>
-          <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p4">
-          <span class="input-group-btn" style="font-family: Arial;">
-            <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p4','_blank')">Open</button>
-          </span>
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-info" style="font-family: Arial;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h3 class="panel-title" style="font-family: Arial;">Project 3 Title Placeholder</h3>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Live</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="http://p3.samsontse.com">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p3.samsontse.com','_blank')">Open</button>
+              </span>
+            </div>
+            <br/>
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Github</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p3">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p3','_blank')">Open</button>
+              </span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
 
-		<h2>In 2+ sentences describe who you are and what you do.</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-info" style="font-family: Arial;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h3 class="panel-title" style="font-family: Arial;">Project 4 Title Placeholder</h3>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Live</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="http://p4.samsontse.com">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('http://p4.samsontse.com','_blank')">Open</button>
+              </span>
+            </div>
+            <br/>
+            <div class="input-group" style="font-family: Arial;">
+              <span class="input-group-addon" style="font-family: Arial;">Github</span>
+              <input type="text" class="form-control" style="font-family: Arial;" value="https://github.com/tsesamson/p4">
+              <span class="input-group-btn" style="font-family: Arial;">
+                <button class="btn btn-success" type="button" style="font-family: Arial;" onclick="window.open('https://github.com/tsesamson/p4','_blank')">Open</button>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="page-header" style="font-family: Arial;">
+          <h1 id="container" style="font-family: Arial;">Questions</h1>
+        </div>
+        <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h2 class="panel-title" style="font-family: Arial;">In 2+ sentences describe who you are and what you do.</h2>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h2 class="panel-title" style="font-family: Arial;">Why are you taking this course?</h2>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
 		
-		<h2>Why are you taking this course?</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-		<h2>What previous experience do you have with programming?</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-		<h2>Are you working on a Mac, PC, or some other platform?</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-		
-		<h2>Anything else we should know?</h2>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-	
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h2 class="panel-title" style="font-family: Arial;">What previous experience do you have with programming?</h2>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h2 class="panel-title" style="font-family: Arial;">Are you working on a Mac, PC, or some other platform?</h2>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">
+        <div class="panel panel-default" style="font-family: Arial;margin-top:25px;">
+          <div class="panel-heading" style="font-family: Arial;">
+            <h2 class="panel-title" style="font-family: Arial;">Anything else we should know?</h2>
+          </div>
+          <div class="panel-body" style="font-family: Arial;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          </div>
+        </div>
+      </div>
+    </div>
+
+
 	</div>
 	
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
