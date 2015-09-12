@@ -46,11 +46,17 @@
 </head>
 <body>
 
+  <!-- Top main profile image and name section -->
+	<div class="container" style="background-color:#3498db;width:100%;padding-bottom:25px;">
+    <div class="row" style="font-family: Arial;">
+      <div class="col-lg-12" style="font-family: Arial;">	
+        <div class="circle" style="margin-top:50px;background-image:url('/profile-samson.jpg')"></div>
+        <h1 style="color:#fff">Samson Tse</h1>
+      </div>
+    </div>
+  </div>
+  
 	<div class="container">
-	
-		<div class="circle" style="margin-top:50px;background-image:url('/profile-samson.jpg')"></div>
-		<h1>Samson Tse</h1>
-		
     <div class="row" style="font-family: Arial;">
       <div class="col-lg-12" style="font-family: Arial;">
         <div class="page-header" style="font-family: Arial;">
