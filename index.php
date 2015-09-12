@@ -151,7 +151,7 @@
             <h2 class="panel-title" style="font-family: Arial;">In 2+ sentences describe who you are and what you do.</h2>
           </div>
           <div class="panel-body" style="font-family: Arial;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm a father, software developer as well as an entrepreneur. I love building things both in the virtual as well as the physical world. My day job requires me to analyze or develope business software that aligns better with various departments of my organization.
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@
             <h2 class="panel-title" style="font-family: Arial;">Why are you taking this course?</h2>
           </div>
           <div class="panel-body" style="font-family: Arial;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm taking this course to see if my current development workflow matches the industry standard. This course will also provide me with a better gauge as to the feasiblity of pursuiting a graduate degree while maintaining a full time job. 
           </div>
         </div>
       </div>
@@ -177,7 +177,7 @@
             <h2 class="panel-title" style="font-family: Arial;">What previous experience do you have with programming?</h2>
           </div>
           <div class="panel-body" style="font-family: Arial;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I have over 15 years of programming experience, however, more recently I've been taking on more project management roles instead of more technical roles. I am familiar with C# .NET as well as PHP but this is the first time attempting to use Laravel framework.
           </div>
         </div>
       </div>
@@ -190,7 +190,7 @@
             <h2 class="panel-title" style="font-family: Arial;">Are you working on a Mac, PC, or some other platform?</h2>
           </div>
           <div class="panel-body" style="font-family: Arial;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm working on a PC with Windows 7 and also a Linux machine with Ubuntu installed.
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@
             <h2 class="panel-title" style="font-family: Arial;">Anything else we should know?</h2>
           </div>
           <div class="panel-body" style="font-family: Arial;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            I'm a dad with a 1.5 year old and a 4 year old that'll be starting junior kindergarten next week.  I could be an emotional train wreck for a week or so.  =)
           </div>
         </div>
       </div>
